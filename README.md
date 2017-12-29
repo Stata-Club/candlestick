@@ -47,7 +47,7 @@ gen date1 = "`year'" + "-" + "`month'" + "-" + "`day'""
 
 //draw a candlestick chart 
 
-candlestick date1 opnprc clsprc lowprc hiprc using 14.html,replace line(opnprc) linecolor(#87CEEB) net
+candlestick date1 opnprc clsprc lowprc hiprc using 14.html,replace line(opnprc) linecolor(#87CEEB)
 
 
 
@@ -56,12 +56,20 @@ candlestick date1 opnprc clsprc lowprc hiprc using 14.html,replace line(opnprc) 
 ## Author
 
 {pstd}Chuntao LI{p_end}
+
 {pstd}China Stata Club(爬虫俱乐部){p_end}
+
 {pstd}Wuhan, China{p_end}
+
 {pstd}chtl@zuel.edu.cn{p_end}
 
+--------
+
 {pstd}Ming WANG{p_end}
+
 {pstd}China Stata Club(爬虫俱乐部){p_end}
+
 {pstd}Wuhan, China{p_end}
+
 {pstd}18895616030@163.com{p_end}
 
