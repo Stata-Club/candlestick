@@ -1,0 +1,9 @@
+v 1
+d candlestick	Author: Chuntao Li & Ming Wang
+
+F candlestick.ado
+F candlestick.sthlp
+F config.js
+F echarts.js
+F esl.js
+F facePrint.js
