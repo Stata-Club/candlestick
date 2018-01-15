@@ -71,7 +71,7 @@ In addition, {cmd:candlestick} can also draw the opening price, closing price, t
 {pstd}draw a candlestick chart 
 
 {phang}
-{stata `"candlestick date1 opnprc clsprc lowprc hiprc using 14.html,replace line(opnprc) linecolor(#87CEEB) net"'}
+{stata `"candlestick date1 opnprc clsprc lowprc hiprc using 14.html,replace line(opnprc) linecolor(#87CEEB)"'}
 {p_end}
 
 {title:Author}
